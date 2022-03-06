@@ -1,3 +1,5 @@
+package GameOfLife;
+
 import java.util.ArrayList;
 import java.util.Random;
 

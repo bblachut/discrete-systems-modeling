@@ -1,3 +1,5 @@
+package GameOfLife;
+
 import javax.swing.JFrame;
 
 public class Program extends JFrame {
