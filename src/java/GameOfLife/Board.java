@@ -9,7 +9,7 @@ import javax.swing.JComponent;
 import javax.swing.event.MouseInputListener;
 
 /**
- * Board with Points that may be expanded (with automatic change of cell
+ * cars.Board with Points that may be expanded (with automatic change of cell
  * number) with mouse event listener
  */
 

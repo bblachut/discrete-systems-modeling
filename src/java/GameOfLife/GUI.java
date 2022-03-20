@@ -15,7 +15,7 @@ import javax.swing.event.ChangeEvent;
 import javax.swing.event.ChangeListener;
 
 /**
- * Class containing GUI: board + buttons
+ * Class containing cars.GUI: board + buttons
  */
 public class GUI extends JPanel implements ActionListener, ChangeListener {
 	private static final long serialVersionUID = 1L;
@@ -40,7 +40,7 @@ public class GUI extends JPanel implements ActionListener, ChangeListener {
 	}
 
 	/**
-	 * @param container to which GUI and board is added
+	 * @param container to which cars.GUI and board is added
 	 */
 	public void initialize(Container container) {
 		container.setLayout(new BorderLayout());
